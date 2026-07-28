@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey! I'm Stephanie  🌷<br><br>-  Rio de Janeiro, Brazil 🇧🇷<br>-  Software Engineering Student<br>-  Interested in Cybersecurity & Artificial Intelligence<br>-  Full-Stack Developer<br>-  Always learning<br><br> "I have no special talent. I am only passionately curious."<br> — Albert Einstein
+## Hey! I'm Stephanie  🌷<br><br>-  Rio de Janeiro, Brazil 🇧🇷<br>-  Software Engineering Student<br>-  Interested in Design & Artificial Intelligence<br>-  Full-Stack Developer<br>-  Always learning<br><br> "I have no special talent. I am only passionately curious."<br> — Albert Einstein
 
 
 ## 🌐 Socials: 
