@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Olá%2C+sou+a+Stephanie!+🌷;Full-Stack+Developer;Software+Engineering+Student;UI%2FUX+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Olá%2C+sou+a+Stephanie!+🌷;Full-Stack+Developer;Software+Engineering+Student;UI%2FUX+%26+AI+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     📍 <b>Rio de Janeiro, Brazil</b> 🇧🇷 &nbsp;|&nbsp; 
@@ -75,8 +75,8 @@
 ### 📊 GitHub Statistics & Activity:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanieloureiro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieloureiro&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephanieloureiro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieloureiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
