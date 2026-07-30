@@ -75,7 +75,7 @@
 ### 📊 GitHub Statistics & Activity:
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=stephanieloureiro&theme=tokyonight&hide_border=true" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=stephanieloureiro&size=compact" alt="GitHub Stats Card" />" />
 </div>
 
 <br />
