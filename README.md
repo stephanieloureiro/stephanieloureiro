@@ -1,7 +1,16 @@
 # 💫 About Me:
-## Hey! I'm Stephanie  🌷<br><br>-  Rio de Janeiro, Brazil 🇧🇷<br>-  Software Engineering Student<br>-  Interested in Design & Artificial Intelligence<br>-  Full-Stack Developer<br>-  Always learning<br>
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_portfolio-Stephanie_Loureiro_Lima_|_Software_Engineering_Portfolio-000000?style=for-the-badge)](https://SEUSITE.dev)
-<br> "I have no special talent. I am only passionately curious."<br> — Albert Einstein
+## Hey! I'm Stephanie 🌷
+
+- 📍 Rio de Janeiro, Brazil 🇧🇷
+- 🎓 Software Engineering Student
+- 💡 Interested in Design & Artificial Intelligence
+- 💻 Full-Stack Developer
+- 🚀 Always learning
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_portfolio-Stephanie_Loureiro_Lima_|_Software_Engineering_Portfolio-000000?style=for-the-badge)](https://stephanieloureiro.github.io/portfolio/)
+
+> *"I have no special talent. I am only passionately curious."*
+> — Albert Einstein
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/louresteph) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanieloureirolima) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/stephloure) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@louresteph) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stephanieloureirolima@gmail.com) 
