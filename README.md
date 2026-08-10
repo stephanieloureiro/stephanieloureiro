@@ -50,16 +50,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<p align="left">
-  <b>Design & Creation Tools:</b><br />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
 ---
 
 ### 📊 GitHub Statistics & Activity:
