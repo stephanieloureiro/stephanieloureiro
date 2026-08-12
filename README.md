@@ -37,6 +37,7 @@ Experiência complementar
   <img src="https://skillicons.dev/icons?i=react,nextjs,git,github" alt="React, Next.js, Git e GitHub">
 </p>
 
+
 <div align="center">
 
 <sub>Rio de Janeiro, Brasil · Aberta a oportunidades de estágio em desenvolvimento back-end</sub>
