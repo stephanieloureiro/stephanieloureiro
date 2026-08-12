@@ -37,24 +37,6 @@ Experiência complementar
   <img src="https://skillicons.dev/icons?i=react,nextjs,git,github" alt="React, Next.js, Git e GitHub">
 </p>
 
-Projetos selecionados
-
-Projeto
-
-O que desenvolvi
-
-FEAFERJ
-
-Site institucional para a Federação Estadual dos Agricultores Familiares do RJ, desenvolvido com Next.js, TypeScript, Prisma e PostgreSQL.
-
-COBRAF
-
-Site institucional desenvolvido com React e TypeScript, da implementação ao deploy.
-
-EvenCity
-
-Plataforma criada como projeto de conclusão do curso técnico em Desenvolvimento de Sistemas.
-
 <div align="center">
 
 <sub>Rio de Janeiro, Brasil · Aberta a oportunidades de estágio em desenvolvimento back-end</sub>
