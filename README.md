@@ -1,74 +1,114 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Olá%2C+sou+a+Stephanie!+🌷;Full-Stack+Developer;Software+Engineering+Student;UI%2FUX+%26+AI+Enthusiast" alt="Typing SVG" />
 
-  <p align="center">
-    📍 <b>Rio de Janeiro, Brazil</b> 🇧🇷 &nbsp;|&nbsp; 
-    🎓 <b>Software Engineering Student</b> &nbsp;|&nbsp; 
-    💻 <b>Full-Stack Developer</b>
-  </p>
-  
-  <p>💡 <i>"I have no special talent. I am only passionately curious."</i> — Albert Einstein</p>
+Stephanie Loureiro Lima
 
-  <br />
+Backend Developer in Training
 
-  <a href="https://stephanieloureiro.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Visit_my_portfolio-Stephanie_Loureiro_Lima_|_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
+Java • APIs • Databases • Software Engineering
+
+📍 Rio de Janeiro, Brazil
+
+<br>
+
+<a href="https://stephanieloureiro.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/stephanieloureirolima/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
----
+About Me
 
-### 🌐 Connect with me:
-<div align="left">
-  <a href="https://linkedin.com/in/stephanieloureirolima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:stephanieloureirolima@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas pelo SENAI FIRJAN.
 
----
+Atualmente, direciono meus estudos para o desenvolvimento backend, com foco em Java, APIs, lógica de programação e bancos de dados. Também tenho experiência prática no desenvolvimento e na publicação de sites institucionais, participando desde o levantamento de requisitos até a implementação, os testes, os ajustes e o deploy.
 
-### 💻 Tech Stack & Ferramentas:
+Neste GitHub, compartilho projetos e estudos que representam minha evolução acadêmica e profissional.
 
-<p align="left">
-  <b>Languages & Backend:</b><br />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+Featured Projects
 
-<p align="left">
-  <b>Frontend & Databases:</b><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+Projeto
 
----
+Descrição
 
-### 📊 GitHub Statistics & Activity:
+Link
+
+EvenCity
+
+Plataforma desenvolvida como projeto de conclusão do curso técnico em Desenvolvimento de Sistemas.
+
+Ver repositório
+
+React CRUD Auth
+
+Aplicação com operações CRUD, autenticação e organização de rotas.
+
+Ver repositório
+
+Portfólio
+
+Portfólio profissional com projetos, formação e experiências.
+
+Ver projeto
+
+Technologies
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=stephanieloureiro&size=compact" alt="GitHub Stats Card" />
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,php,python" alt="Linguagens e backend">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,mysql,postgres,supabase,git,github,idea,vscode" alt="Frontend, bancos de dados e ferramentas">
+
 </div>
 
-<br />
+Currently Learning
 
-### 🐍 Snake Eating Commits:
+Java e programação orientada a objetos
+
+Desenvolvimento de APIs REST
+
+Spring Boot
+
+Modelagem e integração com bancos de dados
+
+GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stephanieloureiro&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieloureiro&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+
+</div>
+
+Contribution Snake
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephanieloureiro/stephanieloureiro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephanieloureiro/stephanieloureiro/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stephanieloureiro/stephanieloureiro/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/stephanieloureiro/stephanieloureiro/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+</div>
+
+Contact
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quote" />
+
+<a href="mailto:stephanieloureirolima@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="38" alt="E-mail">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/stephanieloureirolima/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn">
+</a>
+
 </div>
