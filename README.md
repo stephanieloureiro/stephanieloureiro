@@ -10,13 +10,7 @@
 
 </div>
 
-Sobre mim
-
-Estudante de Engenharia de Software na Universidade Veiga de Almeida e técnica em Desenvolvimento de Sistemas pelo SENAI FIRJAN. Atualmente, concentro meus estudos em desenvolvimento back-end com Java, APIs REST e bancos de dados.
-
-Tenho experiência prática no ciclo completo de dois sites institucionais publicados — levantamento de requisitos, desenvolvimento, testes, ajustes e deploy — e agora estou aprofundando minha base em orientação a objetos e Spring Boot.
-
-Tecnologias
+Estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas pelo SENAI FIRJAN, com experiência em projetos institucionais e foco atual em back-end com Java.
 
 Linguagens
 
